@@ -4,7 +4,9 @@
 Contao Isotope PDF Templates
 =====================
 
-Adds a new document type in Contao Isotope where you can define PDF templates.
+Adds a new document type in Contao Isotope where you can define PDF templates.  
+
+__PDF Version:__ PDF document up to PDF version 1.4
 
 __Important:__ version 2.x of this extension uses [mPDF](https://mpdf.github.io/) instead of TCPDF. Here are some things to note:
 
